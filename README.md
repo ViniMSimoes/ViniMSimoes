@@ -44,4 +44,4 @@ Sou um entusiasta de tecnologia e estudante de Engenharia de Software, sempre em
 ### 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/viniciusmsimoes/)
-- E-mail: [seu.email@exemplo.com](vinicius.msimoes20@gmail.com)
+- E-mail: [vinicius.msimoes20@gmail.com](vinicius.msimoes20@gmail.com)
