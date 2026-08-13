@@ -15,7 +15,7 @@ Sou um entusiasta de tecnologia e estudante de Engenharia de Software, sempre em
 <div align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=ViniMSimoes&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViniMSimoes&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViniMSimoes&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </div>
 
 <br>
