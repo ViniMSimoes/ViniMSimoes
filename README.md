@@ -26,15 +26,8 @@ Sou um entusiasta de tecnologia e estudante de Engenharia de Software, sempre em
 </div>
 
 <br>
-
-### Estatísticas do GitHub
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radium"/>
+<div> 
+  <a href = "mailto:vinicius.msimoes20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="(https://www.linkedin.com/in/viniciusmsimoes/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
-
-### 📫 Como me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/viniciusmsimoes/)
-- E-mail: [vinicius.msimoes20@gmail.com](vinicius.msimoes20@gmail.com)
