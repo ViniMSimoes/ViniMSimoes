@@ -1,6 +1,6 @@
-# Olá, eu sou o Vinicius! 👋
 
-**Estudante de Engenharia de Software | Suporte de TI | Foco em Segurança da Informação (SOC) & Backend Dev**
+
+**SOC analyst, Bug hunter & Backend Dev**
 
 Sou um entusiasta de tecnologia e estudante de Engenharia de Software, sempre em busca de resolver problemas complexos. Atualmente trabalho com suporte de TI e administração de helpdesk (incluindo o ecossistema TOTVS RM), mas estou direcionando meus estudos para a área de Segurança da Informação e Desenvolvimento Backend.
 
