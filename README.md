@@ -10,6 +10,15 @@ Sou um entusiasta de tecnologia e estudante de Engenharia de Software, sempre em
 - 🐧 Entusiasta de **Linux desktop**! Gosto de testar, modificar e otimizar distribuições como Debian, Linux Mint e CachyOS.
 - ⚡ **Curiosidades:** Quando não estou no terminal ou configurando ambientes, provavelmente estou ajustando proporções para extrair o café especial perfeito, cuidando da rotina dos meus hamsters ou explorando Skyrim.
 
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ViniMSimoes&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViniMSimoes&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+</div>
+
+<br>
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
@@ -25,15 +34,6 @@ Sou um entusiasta de tecnologia e estudante de Engenharia de Software, sempre em
   <!-- Scripting e DevOps -->
   <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-</div>
-
-<br>
-
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ViniMSimoes&show_icons=true&theme=radium" alt="Estatísticas do GitHub de ViniMSimoes" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViniMSimoes&layout=compact&theme=radium" alt="Linguagens mais usadas" />
 </div>
 
 <br>
